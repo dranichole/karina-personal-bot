@@ -1,0 +1,7 @@
+﻿sounddevice
+vosk
+opencv-python
+pywin32
+pyttsx3
+pystray
+pillow
