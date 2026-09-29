@@ -1,4 +1,7 @@
-﻿# Karina Personal Desktop AI
+# Karina Personal Desktop AI
+```
+Note: Project is still undergoing development, some features may not work as expected.
+```
 
 This project contains helper tools for Karina, your local desktop AI agent.
 
